@@ -1,0 +1,16 @@
+{
+  "name": "mixerstatus-discordbot",
+  "version": "1.0.0",
+  "description": "This node bot allows to post mixer.com status updates to a discord channel using webhooks.",
+  "main": "index.js",
+  "author": "Alexandre Kilian <hi@alexkilian.com",
+  "engines": {
+    "node": ">=6.0"
+  },
+  "dependencies": {
+    "carina": "^0.10.0",
+    "merge": "^1.2.0",
+    "node-fetch": "^1.7.3",
+    "ws": "^3.3.3"
+  }
+}
