@@ -1,4 +1,4 @@
-#Mixer Status Discord bot
+# Mixer Status Discord bot
 
 This node bot allows to post mixer.com status updates to a discord channel using webhooks.
 
